@@ -1,0 +1,49 @@
+/* .box1{
+    background-image: linear-gradient(to right,rgb(244, 17, 17),rgb(0, 0, 0),rgb(11, 11, 170));
+}
+
+.box2{
+    background-image: linear-gradient(to left,rgb(244, 17, 17),rgb(0, 0, 0),rgb(11, 11, 170) );
+}
+
+.box3{
+    background-image: linear-gradient(to right,rgb(244, 17, 17),rgb(0, 0, 0),rgb(11, 11, 170));
+}
+
+.box4{
+    background-image: linear-gradient(to right ,rgb(244, 17, 17),rgb(0, 0, 0),rgb(11, 11, 170));
+}
+
+.intro{
+    width: 50px;
+    height: 10px;
+} */
+
+/* body{
+    background-image: linear-gradient(to right ,rgb(244, 17, 17),rgb(0, 0, 0),rgb(11, 11, 170));
+} */
+
+body {
+  /* background-color: #3d50bd; */
+  background-image: linear-gradient(to top right,rgb(176, 13, 144),rgb(13, 3, 55),black,rgb(110, 23, 110));
+
+}
+
+
+.clrtxt{
+   background:linear-gradient(to left,rgb(13, 3, 55),rgb(176, 13, 144),black) ;
+}
+
+
+.button1{
+    /* background-color: blueviolet; */
+    background:linear-gradient(to left,rgb(176, 13, 144),rgb(13, 3, 55),black,rgb(110, 23, 110)) ;
+}
+.box3{
+    margin-top: 20px;
+}
+
+.custom-button{
+    background-color: blueviolet;
+    justify-content: end;
+}
